@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 📫 How to reach me **arinchatterjee00@gmail.com**
+- 📫 How to reach me **arghyapahar34@gmail.com**
 
 - 👨‍💻 I solve dsa problems in **C++**
 
