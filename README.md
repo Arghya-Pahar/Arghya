@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- Pursuing my B.tech in CSE from **SRM UNIVERSITY**
+- 👨‍💻Pursuing my B.tech in CSE from **SRM UNIVERSITY**
 
 - 🌱 I’m currently learning **REACT ,NODE JS, JAVA SCRIPT**
 
