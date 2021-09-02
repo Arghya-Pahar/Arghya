@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **Web development**
 
+- Pursuing my B.tech in CSE from **SRM UNIVERSITY**
+
 - 🌱 I’m currently learning **REACT ,NODE JS, JAVA SCRIPT**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Arghya Pahar](https://www.linkedin.com/in/arghya-pahar-10329b214/) **
